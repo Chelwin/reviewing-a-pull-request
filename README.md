@@ -2,7 +2,7 @@
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
-You can play the game [here](https://Chelwin.github.io/github-games/)
+You can play the game [here](http://Chelwin.github.io/github-games/)
 =======
 To play the game:
 1. Go to the **Settings** tab of this repository.
